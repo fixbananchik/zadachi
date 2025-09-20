@@ -1,3 +1,3 @@
 a = 'qdasd'
 
-console.log(a[-1])
+console.log(a.charAt(a.length - 1))

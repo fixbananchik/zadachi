@@ -1,3 +1,3 @@
 a = "adsads"
 
-console.log(length(a))
+console.log(a.length)
